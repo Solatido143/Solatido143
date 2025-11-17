@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I turn random ideas into mini web tools just for fun.
 
-- ## 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-anthony-sol-cruz-2128052ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solcruzmarkanthony@gmail.com) 
 
 # 💻 Tech Stack:
