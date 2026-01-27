@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: A personal website built with Vue.js, Tailwind, and a Node/Laravel backend.
+- 🔭 I’m currently working on: Anything I can think of.
 - 🌱 I’m currently learning: Full-stack web development and sharpening my JavaScript fundamentals.
-- 💬 Ask me about: Vue.js, Laravel, API design, or building small tools from scratch.
+- 💬 Ask me about: Vue.js, Laravel, Yii2, API design, or building small tools from scratch.
 - 📫 How to reach me: solcruzmarkanthony@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I turn random ideas into mini web tools just for fun.
