@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 </p>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Solatido143&theme=modern-lilac2&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=Solatido143&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Solatido143&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="http://www.github.com/Solatido143"><img src="https://github-readme-stats.vercel.app/api?username=Solatido143&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=ffffff&hide_border=true&show_icons=true" alt="Solatido143's GitHub stats" /></a>
 
-
----
+<a href="http://www.github.com/Solatido143"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Solatido143&stroke=ffffff&background=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
